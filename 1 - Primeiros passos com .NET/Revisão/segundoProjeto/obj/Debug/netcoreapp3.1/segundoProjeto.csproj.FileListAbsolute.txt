@@ -1,0 +1,13 @@
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Revisão\segundoProjeto\bin\Debug\netcoreapp3.1\segundoProjeto.exe
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Revisão\segundoProjeto\bin\Debug\netcoreapp3.1\segundoProjeto.deps.json
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Revisão\segundoProjeto\bin\Debug\netcoreapp3.1\segundoProjeto.runtimeconfig.json
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Revisão\segundoProjeto\bin\Debug\netcoreapp3.1\segundoProjeto.runtimeconfig.dev.json
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Revisão\segundoProjeto\bin\Debug\netcoreapp3.1\segundoProjeto.dll
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Revisão\segundoProjeto\bin\Debug\netcoreapp3.1\segundoProjeto.pdb
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Revisão\segundoProjeto\obj\Debug\netcoreapp3.1\segundoProjeto.csprojAssemblyReference.cache
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Revisão\segundoProjeto\obj\Debug\netcoreapp3.1\segundoProjeto.AssemblyInfoInputs.cache
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Revisão\segundoProjeto\obj\Debug\netcoreapp3.1\segundoProjeto.AssemblyInfo.cs
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Revisão\segundoProjeto\obj\Debug\netcoreapp3.1\segundoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Revisão\segundoProjeto\obj\Debug\netcoreapp3.1\segundoProjeto.dll
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Revisão\segundoProjeto\obj\Debug\netcoreapp3.1\segundoProjeto.pdb
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Revisão\segundoProjeto\obj\Debug\netcoreapp3.1\segundoProjeto.genruntimeconfig.cache

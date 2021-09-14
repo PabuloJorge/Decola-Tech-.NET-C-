@@ -1,0 +1,13 @@
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Aplicação Console\primeiroProjeto\bin\Debug\netcoreapp3.1\primeiroProjeto.exe
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Aplicação Console\primeiroProjeto\bin\Debug\netcoreapp3.1\primeiroProjeto.deps.json
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Aplicação Console\primeiroProjeto\bin\Debug\netcoreapp3.1\primeiroProjeto.runtimeconfig.json
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Aplicação Console\primeiroProjeto\bin\Debug\netcoreapp3.1\primeiroProjeto.runtimeconfig.dev.json
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Aplicação Console\primeiroProjeto\bin\Debug\netcoreapp3.1\primeiroProjeto.dll
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Aplicação Console\primeiroProjeto\bin\Debug\netcoreapp3.1\primeiroProjeto.pdb
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Aplicação Console\primeiroProjeto\obj\Debug\netcoreapp3.1\primeiroProjeto.csprojAssemblyReference.cache
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Aplicação Console\primeiroProjeto\obj\Debug\netcoreapp3.1\primeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Aplicação Console\primeiroProjeto\obj\Debug\netcoreapp3.1\primeiroProjeto.AssemblyInfo.cs
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Aplicação Console\primeiroProjeto\obj\Debug\netcoreapp3.1\primeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Aplicação Console\primeiroProjeto\obj\Debug\netcoreapp3.1\primeiroProjeto.dll
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Aplicação Console\primeiroProjeto\obj\Debug\netcoreapp3.1\primeiroProjeto.pdb
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Primeiros passos com .NET\Aplicação Console\primeiroProjeto\obj\Debug\netcoreapp3.1\primeiroProjeto.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\2 - Criando um APP simples de cadastro de séries em .NET\Meu Projeto\Series\obj\Debug\netcoreapp3.1\Series.csprojAssemblyReference.cache
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\2 - Criando um APP simples de cadastro de séries em .NET\Meu Projeto\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\2 - Criando um APP simples de cadastro de séries em .NET\Meu Projeto\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\2 - Criando um APP simples de cadastro de séries em .NET\Meu Projeto\Series\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\2 - Criando um APP simples de cadastro de séries em .NET\Meu Projeto\Series\bin\Debug\netcoreapp3.1\Series.exe
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\2 - Criando um APP simples de cadastro de séries em .NET\Meu Projeto\Series\bin\Debug\netcoreapp3.1\Series.deps.json
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\2 - Criando um APP simples de cadastro de séries em .NET\Meu Projeto\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\2 - Criando um APP simples de cadastro de séries em .NET\Meu Projeto\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\2 - Criando um APP simples de cadastro de séries em .NET\Meu Projeto\Series\bin\Debug\netcoreapp3.1\Series.dll
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\2 - Criando um APP simples de cadastro de séries em .NET\Meu Projeto\Series\bin\Debug\netcoreapp3.1\Series.pdb
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\2 - Criando um APP simples de cadastro de séries em .NET\Meu Projeto\Series\obj\Debug\netcoreapp3.1\Series.dll
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\2 - Criando um APP simples de cadastro de séries em .NET\Meu Projeto\Series\obj\Debug\netcoreapp3.1\Series.pdb
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\2 - Criando um APP simples de cadastro de séries em .NET\Meu Projeto\Series\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache
