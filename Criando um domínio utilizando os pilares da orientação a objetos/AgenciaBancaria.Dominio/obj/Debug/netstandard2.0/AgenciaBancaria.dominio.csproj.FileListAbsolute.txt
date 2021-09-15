@@ -1,0 +1,9 @@
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.Dominio\bin\Debug\netstandard2.0\AgenciaBancaria.dominio.deps.json
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.Dominio\bin\Debug\netstandard2.0\AgenciaBancaria.dominio.dll
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.Dominio\bin\Debug\netstandard2.0\AgenciaBancaria.dominio.pdb
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.Dominio\obj\Debug\netstandard2.0\AgenciaBancaria.dominio.csprojAssemblyReference.cache
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.Dominio\obj\Debug\netstandard2.0\AgenciaBancaria.dominio.AssemblyInfoInputs.cache
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.Dominio\obj\Debug\netstandard2.0\AgenciaBancaria.dominio.AssemblyInfo.cs
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.Dominio\obj\Debug\netstandard2.0\AgenciaBancaria.dominio.csproj.CoreCompileInputs.cache
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.Dominio\obj\Debug\netstandard2.0\AgenciaBancaria.dominio.dll
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.Dominio\obj\Debug\netstandard2.0\AgenciaBancaria.dominio.pdb

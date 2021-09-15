@@ -1,0 +1,16 @@
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.app\bin\Debug\netcoreapp3.1\AgenciaBancaria.app.exe
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.app\bin\Debug\netcoreapp3.1\AgenciaBancaria.app.deps.json
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.app\bin\Debug\netcoreapp3.1\AgenciaBancaria.app.runtimeconfig.json
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.app\bin\Debug\netcoreapp3.1\AgenciaBancaria.app.runtimeconfig.dev.json
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.app\bin\Debug\netcoreapp3.1\AgenciaBancaria.app.dll
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.app\bin\Debug\netcoreapp3.1\AgenciaBancaria.app.pdb
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.app\obj\Debug\netcoreapp3.1\AgenciaBancaria.app.csprojAssemblyReference.cache
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.app\obj\Debug\netcoreapp3.1\AgenciaBancaria.app.AssemblyInfoInputs.cache
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.app\obj\Debug\netcoreapp3.1\AgenciaBancaria.app.AssemblyInfo.cs
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.app\obj\Debug\netcoreapp3.1\AgenciaBancaria.app.csproj.CoreCompileInputs.cache
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.app\obj\Debug\netcoreapp3.1\AgenciaBancaria.app.dll
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.app\obj\Debug\netcoreapp3.1\AgenciaBancaria.app.pdb
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.app\obj\Debug\netcoreapp3.1\AgenciaBancaria.app.genruntimeconfig.cache
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.app\bin\Debug\netcoreapp3.1\AgenciaBancaria.dominio.dll
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.app\bin\Debug\netcoreapp3.1\AgenciaBancaria.dominio.pdb
+C:\Users\EA\Desktop\PC empresa\dio\Decola Tech\Criando um domínio utilizando os pilares da orientação a objetos\AgenciaBancaria.app\obj\Debug\netcoreapp3.1\AgenciaBancaria.app.csproj.CopyComplete

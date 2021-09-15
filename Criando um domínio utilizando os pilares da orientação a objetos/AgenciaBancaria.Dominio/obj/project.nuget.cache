@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ZzMKdEmYJqDjw+yYnw/SpFk3waDZE3W/8JLI2upZlJi38I6noH/OPyY6VJyqAv+o49CegYP2fmbCh20lfGPdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EA\\Desktop\\PC empresa\\dio\\Decola Tech\\Criando um domínio utilizando os pilares da orientação a objetos\\AgenciaBancaria.Dominio\\AgenciaBancaria.dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\EA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
